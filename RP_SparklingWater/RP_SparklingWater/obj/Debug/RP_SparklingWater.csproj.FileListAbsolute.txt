@@ -1,0 +1,7 @@
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\bin\Debug\RP_SparklingWater.exe.config
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\bin\Debug\RP_SparklingWater.exe
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\bin\Debug\RP_SparklingWater.pdb
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\obj\Debug\RP_SparklingWater.csprojAssemblyReference.cache
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\obj\Debug\RP_SparklingWater.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\obj\Debug\RP_SparklingWater.exe
+C:\Users\Miguel Paloma\source\repos\RP_SparklingWater\RP_SparklingWater\obj\Debug\RP_SparklingWater.pdb
